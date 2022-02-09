@@ -1,9 +1,6 @@
 ### Python 3 parte 1: Introdução à nova versão da linguagem.
 
-***Python Oficial*** <br>
-[python.org](https://www.python.org/)
-
-***Executar códigos online*** <br>
+[python.org](https://www.python.org/) <br>
 [replit - python 3](https://replit.com/languages/python3)
 
 ```python
@@ -72,3 +69,13 @@ print(dia, mes, ano, sep="/")
 ```
 <pre>Retorno: 15/10/2015</pre>
 
+Tipagem dinâmica
+```python
+pais = "Brasil"
+```
+```python
+pais = 644
+```
+```python
+pais = 7.9
+```
