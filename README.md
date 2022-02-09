@@ -88,3 +88,20 @@ recibos_em_atraso = 30
 ```
 
 [PyCharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows)
+
+O código não funciona! <br>
+unsupported operand type(s) for +: 'int' and 'str'
+```python
+idade1 = 10
+idade2 = "20"
+
+print(idade1 + idade2)
+```
+
+Funciona
+```python
+idade1 = 10
+idade2 = int("20")
+
+print(idade1 + idade2)
+```
