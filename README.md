@@ -69,7 +69,7 @@ print(dia, mes, ano, sep="/")
 ```
 <pre>Retorno: 15/10/2015</pre>
 
-Tipagem dinâmica
+Tipagem dinâmica - Uma variável só passa a existir quando atribuímos um valor, definindo assim o seu tipo.
 ```python
 pais = "Brasil"
 ```
@@ -79,3 +79,11 @@ pais = 644
 ```python
 pais = 7.9
 ```
+
+O Python utiliza por convenção o padrão Snake_Case para nomes de variáveis (ou identificadores).
+<pre>
+idade_esposa = 20
+perfil_vip = 'Flávio Almeida'
+recibos_em_atraso = 30
+</pre>
+
