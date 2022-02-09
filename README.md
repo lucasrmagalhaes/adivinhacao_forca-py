@@ -1,7 +1,7 @@
 ### Python 3 parte 1: Introdução à nova versão da linguagem.
 
-[python.org](https://www.python.org/) <br>
-[replit - python 3](https://replit.com/languages/python3)
+[Python](https://www.python.org/) <br>
+[Replit](https://replit.com/languages/python3)
 
 ```python
 print("olá mundo")
@@ -81,9 +81,10 @@ pais = 7.9
 ```
 
 O Python utiliza por convenção o padrão Snake_Case para nomes de variáveis (ou identificadores).
-<pre>
+```python
 idade_esposa = 20
 perfil_vip = 'Flávio Almeida'
 recibos_em_atraso = 30
-</pre>
+```
 
+[PyCharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows)
