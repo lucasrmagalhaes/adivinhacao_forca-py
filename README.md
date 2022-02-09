@@ -16,12 +16,14 @@ Por exemplo, digitar "print" para obter o retorno da função help
 help()
 ```
 
+sep -> para definir um - entre cada valor.
 ```python
 print("Brasil", "ganhou", 5, "títulos mundiais", sep="-")
 ```
 <pre>Retorno: Brasil-ganhou-5-títulos mundiais</pre>
 
-end -> Adiciona uma intrução no final do código
+end -> adiciona uma intrução no final do código. <br>
+\n -> é um caractere especial, que faz com que o novo prompt comece em uma nova linha.
 ```python
 print("Brasil", "ganhou", 5, "títulos mundiais", end="\n")
 ```
@@ -54,3 +56,19 @@ type(quantidade)
 print(pais, "ganhou", quantidade, "titulos mundiais")
 ```
 <pre>Retorno: Itália ganhou 4 títulos mundiais</pre>
+
+Imprimindo uma data
+```python
+dia = 15
+```
+```python
+mes = 10
+```
+```python
+ano = 2015
+```
+```python
+print(dia, mes, ano, sep="/")
+```
+<pre>Retorno: 15/10/2015</pre>
+
