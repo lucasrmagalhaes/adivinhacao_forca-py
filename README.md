@@ -180,3 +180,24 @@ print("R$ {:07.2f}".format(4.5))
 print("R$ {:7d}".format(45))
 print("Data {:2d}/{:2d}".format(9,12))
 ```
+
+```python
+print("Ola Sr.{1} {0}".format("Cordeiro","Leonardo"))
+```
+<pre>Retorno: "Ola Sr. Leonardo Cordeiro"</pre>
+
+##### f-strings ou formatted string literals
+```python
+>>> nome = 'Matheus'
+>>> print(f'Meu nome é {nome}')
+Meu nome é Matheus
+```
+
+Quando colocamos a letra f antes das aspas, informamos ao Python que estamos utilizando uma f-string. Dessa forma o Python consegue, em tempo de execução, captar a expressão que está entre chaves ({ }) e avaliá-la. <br>
+Além de variáveis, podemos passar também de funções e métodos:
+```python
+>>> nome = 'Matheus'
+>>> print(f'Meu nome é {nome.lower()}')
+Meu nome é matheus
+```
+
