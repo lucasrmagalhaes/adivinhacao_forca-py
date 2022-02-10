@@ -170,3 +170,13 @@ for rodada in [1,2,3,4]:
 3
 4
 </pre>
+
+##### break e continue
+break sai do bloco do laço abruptamente, continue apenas pula para próxima iteração.
+
+f -> float, d -> int/digito
+```python
+print("R$ {:07.2f}".format(4.5))
+print("R$ {:7d}".format(45))
+print("Data {:2d}/{:2d}".format(9,12))
+```
