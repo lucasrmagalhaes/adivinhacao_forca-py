@@ -130,3 +130,42 @@ print(nome + sobrenome)
 10 * "20"
 ```
 <pre>Retorno: '20202020202020202020'</pre>
+
+```python
+for rodada in range(1,10):
+    print(rodada)
+```
+<pre>
+1
+2
+3
+4
+5
+6
+7
+8
+9
+</pre>
+
+```python
+for rodada in range(1,10,2):
+    print(rodada)
+```
+<pre>
+1
+3
+5
+7
+9
+</pre>
+
+```python
+for rodada in [1,2,3,4]:
+    print(rodada)
+```
+<pre>
+1
+2
+3
+4
+</pre>
