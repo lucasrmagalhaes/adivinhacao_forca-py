@@ -147,6 +147,7 @@ for rodada in range(1,10):
 9
 </pre>
 
+range(start, stop, [step]) -> step é opcional.
 ```python
 for rodada in range(1,10,2):
     print(rodada)
