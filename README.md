@@ -1,4 +1,4 @@
-### Python 3 parte 1: Introdução à nova versão da linguagem.
+### Python 3
 
 [Python](https://www.python.org/) <br>
 [Replit](https://replit.com/languages/python3)
@@ -188,16 +188,17 @@ print("Ola Sr.{1} {0}".format("Cordeiro","Leonardo"))
 
 ##### f-strings ou formatted string literals
 ```python
->>> nome = 'Matheus'
+>>> nome = 'Lucas'
 >>> print(f'Meu nome é {nome}')
-Meu nome é Matheus
+Meu nome é Lucas
 ```
 
 Quando colocamos a letra f antes das aspas, informamos ao Python que estamos utilizando uma f-string. Dessa forma o Python consegue, em tempo de execução, captar a expressão que está entre chaves ({ }) e avaliá-la. <br>
 Além de variáveis, podemos passar também de funções e métodos:
 ```python
->>> nome = 'Matheus'
+>>> nome = 'Lucas'
 >>> print(f'Meu nome é {nome.lower()}')
-Meu nome é matheus
+Meu nome é lucas
 ```
 
+[Built-in Functions](https://docs.python.org/3/library/functions.html)
