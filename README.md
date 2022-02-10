@@ -116,14 +116,14 @@ print(nome + sobrenome)
 <pre>Retorno: NicoSteppat</pre>
 
 ##### Diferenças Python 2 e 3
-sep e end entraram no Python 3. <br>
-raw_input converte para string no Python 2. <br>
-As funções input(...), print(...) e int(...) existem no Python 3. <br>
-A função raw_input(..) existe apenas no Python 2. <br>
-No Python 3, a instrução print("ola", "mundo") imprime como saída ola mundo, diferente do Python 2, que possui como saída ('ola', 'mundo'). <br>
-No Python 2, quando digitamos um valor numérico através de input, ele automaticamente converte de str para int. Já o Python 3 não assume essa conversão automática, sendo o desenvolvedor responsável por fazê-la. <br>
-A função raw_input só existe em Python 2 e quando usada, lê a entrada como str, sem realizar conversões de tipos, como na função input. <br>
-Uma função em Python 3 sempre deve possuir parênteses.
+- sep e end entraram no Python 3. <br>
+- raw_input converte para string no Python 2. <br>
+- As funções input(...), print(...) e int(...) existem no Python 3. <br>
+- A função raw_input(..) existe apenas no Python 2. <br>
+- No Python 3, a instrução print("ola", "mundo") imprime como saída ola mundo, diferente do Python 2, que possui como saída ('ola', 'mundo'). <br>
+- No Python 2, quando digitamos um valor numérico através de input, ele automaticamente converte de str para int. Já o Python 3 não assume essa conversão automática, sendo o desenvolvedor responsável por fazê-la. <br>
+- A função raw_input só existe em Python 2 e quando usada, lê a entrada como str, sem realizar conversões de tipos, como na função input. <br>
+- Uma função em Python 3 sempre deve possuir parênteses.
 
 ##### syntax sugar
 ```python
