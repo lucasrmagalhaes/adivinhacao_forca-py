@@ -204,7 +204,17 @@ Além de variáveis, podemos passar também de funções e métodos:
 ```python
 >>> nome = 'Lucas'
 >>> print(f'Meu nome é {nome.lower()}')
-Meu nome é lucas
+Meu nome é Lucas
 ```
 
-[Built-in Functions](https://docs.python.org/3/library/functions.html)
+[Built-in Functions](https://docs.python.org/3/library/functions.html) <br>
+Estão automaticamente disponíveis e podem ser chamadas em todo lugar do nosso código.
+
+##### Integer Division
+<pre>
+3 / 2
+Retorno: 1.5
+
+3 // 2
+Retorno: 1
+</pre>
