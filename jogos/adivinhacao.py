@@ -1,6 +1,8 @@
 import random
 
+print("********************************")
 print("Bem-vindo ao jogo de Advinhação!")
+print("********************************")
 
 numero_secreto = random.randrange(1, 101)
 total_de_tentativas = 0
