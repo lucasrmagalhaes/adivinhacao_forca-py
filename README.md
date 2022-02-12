@@ -1,5 +1,11 @@
 ### Python 3
 
+Python é uma linguagem de programação interpretada de alto nível e que suporta múltiplos paradigmas de programação: imperativo, orientado a objetos e funcional. É uma linguagem com tipagem dinâmica e gerenciamento automático de memória.
+
+Isso significa que a implementação da linguagem python em cada computador é feita através de um processo no qual um dos principais componentes é o interpretador.
+
+Python foi idealizado pelo programador holandês Guido Van Hossum e sua primeira versão foi lançada em 1991 no Centrum Wiskunde & Informatica - CWI (Instituto Nacional de Pesquisa para Matemática e Ciência da Computação), na Holanda.
+
 [Python](https://www.python.org/) <br>
 [Replit](https://replit.com/languages/python3)
 
