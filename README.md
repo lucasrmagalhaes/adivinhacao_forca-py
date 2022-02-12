@@ -218,3 +218,12 @@ Retorno: 1.5
 3 // 2
 Retorno: 1
 </pre>
+
+Mesmo um módulo solitário pode executar alguma funcionalidade quando executado isoladamente, basta adicionar um if no final do código para verificar a variável __name__
+```python
+def executa():
+    print("Executando")
+
+if(__name__ == "__main__"):
+    executa()
+```
