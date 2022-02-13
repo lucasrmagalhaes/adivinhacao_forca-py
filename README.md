@@ -228,4 +228,8 @@ if(__name__ == "__main__"):
     executa()
 ```
 
-* [Estruturas de Dados](https://docs.python.org/pt-br/3.10/tutorial/datastructures.html)
+* [Estruturas de Dados](https://docs.python.org/pt-br/3.10/tutorial/datastructures.html) <br>
+Listas [] - Mutável <br>
+Tuplas () - Imutável
+
+**Tipos considerados sequências:** tuple, string e list.
