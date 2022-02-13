@@ -228,5 +228,4 @@ if(__name__ == "__main__"):
     executa()
 ```
 
-
-* [Listas](https://docs.python.org/pt-br/3/tutorial/datastructures.html)
+* [Estruturas de Dados](https://docs.python.org/pt-br/3.10/tutorial/datastructures.html)
