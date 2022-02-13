@@ -227,3 +227,6 @@ def executa():
 if(__name__ == "__main__"):
     executa()
 ```
+
+
+* [Listas](https://docs.python.org/pt-br/3/tutorial/datastructures.html)
