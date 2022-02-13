@@ -229,7 +229,11 @@ if(__name__ == "__main__"):
 ```
 
 * [Estruturas de Dados](https://docs.python.org/pt-br/3.10/tutorial/datastructures.html) <br>
+strip() - Tira espaços em branco e caracteres especiais. <br>
 Listas [] - Mutável <br>
-Tuplas () - Imutável
+Tuplas () - Imutável <br>
+readline() - Se desejamos ler linha a linha de nosso arquivo, podemos utilizar a função readline(). Ela nos retorna uma linha por vez, e faz com que a nossa leitura seja feita de modo mais controlado. <br>
+read() - Lê o arquivo inteiro de uma vez, colocando o ponteiro de leitura no final do mesmo. Se chamarmos a função read() novamente, como o ponteiro de leitura está no final, nada será lido. <br>
+len() - Para saber o tamanho.
 
 **Tipos considerados sequências:** tuple, string e list.
