@@ -228,7 +228,7 @@ if(__name__ == "__main__"):
     executa()
 ```
 
-* [Estruturas de Dados](https://docs.python.org/pt-br/3.10/tutorial/datastructures.html) <br>
+[Estruturas de Dados](https://docs.python.org/pt-br/3.10/tutorial/datastructures.html) <br>
 strip() - Tira espaços em branco e caracteres especiais. <br>
 Listas [] - Mutável <br>
 Tuplas () - Imutável <br>
