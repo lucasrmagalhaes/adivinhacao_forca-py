@@ -1,4 +1,4 @@
-### Python 3
+### Python 3 - Jogos: Adivinhação e Forca
 
 Python é uma linguagem de programação interpretada de alto nível e que suporta múltiplos paradigmas de programação: imperativo, orientado a objetos e funcional. É uma linguagem com tipagem dinâmica e gerenciamento automático de memória.
 
